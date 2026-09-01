@@ -1,1 +1,0 @@
-printf '*.sql linguist-generated=false\n*.sql linguist-vendored=false\n*.sql linguist-detectable=true\n' > .gitattributes
